@@ -1,2 +1,1 @@
 = 儿少卫生
-image::abstract-11.jpg[tes]
