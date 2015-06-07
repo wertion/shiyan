@@ -1,2 +1,2 @@
 = 儿少卫生
-![test](abstract-11.jpg)
+image::abstract-11.jpg[tes]
