@@ -1,0 +1,22 @@
+{
+    "gitbook": ">1.x.x",
+    "plugins": [
+    "ga",
+    "disqus",
+    "richquotes",
+    "katex",
+    "mermaid"
+    ],
+    "pluginsConfig": {
+        "ga" : {
+            "token": "UA-58841928-1"
+        },
+        "disqus": {
+            "shortName": "qinwenfeng"
+        },
+         "richquotes" :
+        {
+            "todos" : true 
+        }
+    }
+}
